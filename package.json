@@ -1,6 +1,6 @@
 {
   "name": "dot-file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "dot-file reads and writes dot files.",
   "contributors": [
     {
