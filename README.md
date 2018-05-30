@@ -1,19 +1,19 @@
-# dot-file
+# dotfile-json
 
-dot-file reads and writes dot files.
+dotfile-json reads and writes dot files.
 
 ## Installation
 
 ```shell
-$ npm install dot-file
+$ npm install dotfile-json
 ```
 
 ## Quick start
 
-First you need to add a reference to dot-file to your application:
+First you need to add a reference to dotfile-json to your application:
 
 ```javascript
-const dotFile = require('dot-file');
+const dotFile = require('dotfile-json');
 ```
 
 To read a dot file, use the `read` function and provide the name of the dot file:

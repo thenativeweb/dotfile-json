@@ -1,7 +1,7 @@
 {
-  "name": "dot-file",
+  "name": "dotfile-json",
   "version": "1.0.0",
-  "description": "dot-file reads and writes dot files.",
+  "description": "dotfile-json reads and writes dot files.",
   "contributors": [
     {
       "name": "Golo Roden",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thenativeweb/dot-file.git"
+    "url": "git://github.com/thenativeweb/dotfile-json.git"
   },
   "keywords": [
     "dotfile"
