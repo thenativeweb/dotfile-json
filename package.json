@@ -1,6 +1,6 @@
 {
   "name": "dotfile-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dotfile-json reads and writes dot files.",
   "contributors": [
     {
