@@ -10,6 +10,7 @@
   ],
   "main": "dist/dotFile.js",
   "dependencies": {
+    "regenerator-runtime": "0.11.1",
     "util.promisify": "1.0.0"
   },
   "devDependencies": {
