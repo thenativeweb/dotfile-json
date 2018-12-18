@@ -14,7 +14,7 @@ const getFile = function (filename) {
     throw new Error('File name is missing.');
   }
 
-  return path.join(os.homedir(), filename);
+  return path.join(os.homedir(), '.config', filename);
 };
 
 const dotFile = {
