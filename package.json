@@ -10,13 +10,13 @@
   ],
   "main": "dist/dotFile.js",
   "dependencies": {
-    "regenerator-runtime": "0.11.1",
+    "regenerator-runtime": "0.13.1",
     "util.promisify": "1.0.0"
   },
   "devDependencies": {
-    "assertthat": "1.0.0",
-    "roboter": "1.0.4",
-    "uuidv4": "1.0.1"
+    "assertthat": "2.0.1",
+    "roboter": "3.0.4",
+    "uuidv4": "2.0.0"
   },
   "repository": {
     "type": "git",
